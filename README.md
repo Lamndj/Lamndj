@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lamndj
+- 👋 Hi, I’m Surya Mahla
 - 👀 I’m a Frontend Web Developer
 - 🌱 I’m currently learning Backend technologies
 - 💞️ I’m looking to collaborate on interesting web based projects
