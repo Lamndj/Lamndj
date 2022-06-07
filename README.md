@@ -6,10 +6,10 @@
 
 <br></br>
 <br></br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Peeyush14198&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lamndj&theme=dark)](https://git.io/streak-stats)
 <br></br>
 <br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peeyush14198&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamndj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Lamndj/Lamndj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
